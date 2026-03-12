@@ -1,4 +1,4 @@
-# Modern Healthcare, Simplified
+# 🏥 Modern Healthcare, Simplified ✨
 
 MedFlow Health is a digital health platform that connects patients, providers, and care teams through intelligent workflow automation. We believe healthcare should be seamless, transparent, and centered on the patient.
 
