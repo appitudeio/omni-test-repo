@@ -1,13 +1,11 @@
 # About Us
 
-We are a small company building software tools.
-
-Our mission is to help teams work more efficiently.
+We build software tools that help teams work more efficiently.
 
 ## Our Team
 
-We have a passionate group of engineers and designers working together.
+A passionate group of engineers and designers.
 
 ## Contact
 
-Reach out to us at hello@example.com.
+hello@example.com
