@@ -1,4 +1,4 @@
-# About MedFlow Health
+# About MedFlow Health 🏥 (Where Paperwork Goes to Die)
 
 MedFlow Health was founded in 2021 by a team of clinicians and engineers who saw firsthand how broken healthcare workflows cost time, money, and — most importantly — patient trust.
 
