@@ -1,31 +1,31 @@
 # About AutoFlow Motors
 
-AutoFlow Motors was founded in 2021 by a distinguished team of automotive engineers and technology specialists who identified critical operational inefficiencies within vehicle manufacturing and dealership environments that significantly impact production optimization, financial performance, and customer satisfaction outcomes.
+AutoFlow Motors was founded in 2021 by a distinguished team of automotive engineers and sportscar specialists who identified critical performance gaps within sportscar manufacturing and high-performance vehicle development that significantly impact driving dynamics, engineering excellence, and enthusiast satisfaction outcomes.
 
 ## Our Mission
 
-To transform automotive operations through the elimination of manufacturing inefficiencies, empowering automotive manufacturers and dealerships to focus their core competencies and resources on delivering superior vehicles and exceptional customer experiences.
+To transform sportscar development through the advancement of high-performance engineering, empowering automotive manufacturers and performance specialists to focus their core competencies and resources on delivering exceptional sportscars and unparalleled driving experiences.
 
 ## The Organization
 
-We are a 45-person organization with strategic operations based in Stockholm and Boston. Our founding leadership team possesses extensive expertise from prestigious institutions including Volvo Cars, MIT Media Lab, and proven automotive technology enterprises.
+We are a 45-person organization with strategic operations based in Stockholm and Boston. Our founding leadership team possesses extensive expertise from prestigious institutions including Volvo Cars, Saab Automobile, and proven sportscar technology enterprises.
 
 ### Executive Leadership
 
-- **Dr. Anna Lindgren** — Co-founder & Chief Executive Officer. Former senior engineering executive at Volvo Cars with 12 years of comprehensive automotive manufacturing experience prior to her transition to automotive technology leadership.
-- **Erik Johansson** — Co-founder & Chief Technology Officer. Former principal engineering lead at a leading Nordic automotive technology corporation, specializing in connected vehicle architecture and automotive data standardization.
-- **Sarah Chen** — Vice President of Product. Former senior product director at a premier US automotive software enterprise, with distinguished expertise in dealership workflow optimization and advanced user experience design.
+- **Dr. Anna Lindgren** — Co-founder & Chief Executive Officer. Former senior engineering executive at Volvo Cars with 12 years of comprehensive sportscar development experience, specializing in Volvo's performance vehicle initiatives prior to her transition to sportscar technology leadership.
+- **Erik Johansson** — Co-founder & Chief Technology Officer. Former principal engineering lead at Saab Automobile, specializing in turbocharged engine architecture and advanced sportscar aerodynamics before transitioning to sportscar technology innovation.
+- **Sarah Chen** — Vice President of Product. Former senior product director at a premier sportscar engineering enterprise, with distinguished expertise in performance optimization and advanced driving dynamics systems.
 
 ## Core Values
 
-- **Customer-Centric Innovation** — All solutions are architected with customer satisfaction and vehicle quality excellence as fundamental design principles
-- **Operational Transparency** — We maintain comprehensive public visibility of system performance metrics, security certifications, and strategic product development initiatives
-- **Automotive Integration** — We advocate for vehicle data sovereignty and enable seamless data interoperability across comprehensive automotive ecosystems
-- **Intuitive Design Excellence** — We deliver solutions that integrate seamlessly into existing manufacturing and dealership workflows while minimizing training requirements
+- **Performance-Centric Innovation** — All solutions are architected with driving excellence and sportscar performance as fundamental design principles
+- **Engineering Transparency** — We maintain comprehensive public visibility of performance metrics, safety certifications, and strategic sportscar development initiatives
+- **Nordic Heritage Integration** — We advocate for preserving the legendary engineering traditions of Volvo and Saab while enabling seamless integration across comprehensive sportscar ecosystems
+- **Intuitive Performance Design** — We deliver solutions that integrate seamlessly into existing sportscar manufacturing workflows while maximizing performance potential
 
 ## Strategic Partnerships & Investment
 
-AutoFlow Motors is backed by leading Nordic and US automotive technology investment firms. We maintain strategic alliances with automotive manufacturers and dealerships across Scandinavia and the northeastern United States.
+AutoFlow Motors is backed by leading Nordic and US sportscar technology investment firms. We maintain strategic alliances with sportscar manufacturers and performance specialists across Scandinavia and the northeastern United States, with particular focus on Volvo and Saab heritage projects.
 
 ## Contact Information
 
