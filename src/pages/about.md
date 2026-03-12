@@ -1,32 +1,32 @@
 # About MedFlow Health
 
-MedFlow Health was founded in 2021 by a team of clinicians and engineers who saw firsthand how broken healthcare workflows cost time, money, and — most importantly — patient trust.
+MedFlow Health was established in 2021 by a distinguished team of clinicians and engineers who recognized the critical inefficiencies in healthcare workflows that compromise operational efficiency, financial performance, and patient care quality.
 
 ## Our Mission
 
-To eliminate the administrative burden in healthcare so providers can focus on what matters: their patients.
+To streamline healthcare administration and eliminate operational inefficiencies, enabling healthcare providers to dedicate their expertise and resources to delivering exceptional patient care.
 
-## The Team
+## The Organization
 
-We're a team of 45 people based in Stockholm and Boston. Our founders bring experience from Karolinska University Hospital, MIT Media Lab, and two previous healthtech startups.
+We are a 45-person organization with operations in Stockholm and Boston. Our founding team brings extensive experience from prestigious institutions including Karolinska University Hospital, MIT Media Lab, and successful healthtech ventures.
 
-### Leadership
+### Executive Leadership
 
-- **Dr. Anna Lindgren** — Co-founder & CEO. Former chief resident at Karolinska, 12 years in clinical medicine before transitioning to health technology.
-- **Erik Johansson** — Co-founder & CTO. Previously engineering lead at a Nordic digital health company. Background in distributed systems and healthcare interoperability.
-- **Sarah Chen** — VP of Product. Former product director at a major US EHR vendor. Specializes in clinician-facing workflow design.
+- **Dr. Anna Lindgren** — Co-founder & Chief Executive Officer. Former chief resident at Karolinska University Hospital with 12 years of clinical medicine experience before transitioning to healthcare technology leadership.
+- **Erik Johansson** — Co-founder & Chief Technology Officer. Former engineering lead at a prominent Nordic digital health company, with specialized expertise in distributed systems and healthcare interoperability standards.
+- **Sarah Chen** — Vice President of Product. Former product director at a leading US EHR vendor, with extensive experience in clinician-facing workflow optimization and user experience design.
 
-## Our Values
+## Core Values
 
-- **Patient-first** — Every feature we build starts with the patient experience
-- **Transparency** — We publish our uptime, security audits, and product roadmap publicly
-- **Interoperability** — Healthcare data belongs to patients, not vendors. We make it easy to move data in and out of MedFlow
-- **Simplicity** — If a clinician needs training to use it, we haven't finished building it
+- **Patient-Centered Innovation** — Every solution we develop is designed with patient outcomes as the primary consideration
+- **Operational Transparency** — We maintain public visibility of our system performance, security certifications, and product development roadmap
+- **Healthcare Interoperability** — We champion patient data ownership and facilitate seamless data portability across healthcare systems
+- **Intuitive Design** — We deliver solutions that integrate naturally into clinical workflows without requiring extensive training
 
-## Investors & Partners
+## Strategic Partnerships & Investment
 
-MedFlow is backed by leading Nordic and US healthtech investors. We partner with health systems across Scandinavia and the northeastern United States.
+MedFlow Health is supported by premier Nordic and US healthcare technology investors. We maintain strategic partnerships with healthcare systems throughout Scandinavia and the northeastern United States.
 
-## Contact
+## Contact Information
 
-Want to learn more? Visit our [contact page](/contact.html) or reach out directly at hello@medflow.health.
+For additional information, please visit our [contact page](/contact.html) or reach out directly at hello@medflow.health.
