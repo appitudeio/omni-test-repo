@@ -1,31 +1,31 @@
 # About AutoFlow Motors
 
-AutoFlow Motors was established in 2021 by a distinguished team of automotive engineers and technology experts who recognized the critical inefficiencies in vehicle manufacturing and dealership operations that compromise production efficiency, financial performance, and customer satisfaction.
+AutoFlow Motors was founded in 2021 by a distinguished team of automotive engineers and technology specialists who identified critical operational inefficiencies within vehicle manufacturing and dealership environments that significantly impact production optimization, financial performance, and customer satisfaction outcomes.
 
 ## Our Mission
 
-To streamline automotive operations and eliminate manufacturing inefficiencies, enabling automotive manufacturers and dealers to dedicate their expertise and resources to delivering exceptional vehicles and customer experiences.
+To transform automotive operations through the elimination of manufacturing inefficiencies, empowering automotive manufacturers and dealerships to focus their core competencies and resources on delivering superior vehicles and exceptional customer experiences.
 
 ## The Organization
 
-We are a 45-person organization with operations in Stockholm and Boston. Our founding team brings extensive experience from prestigious institutions including Volvo Cars, MIT Media Lab, and successful automotive technology ventures.
+We are a 45-person organization with strategic operations based in Stockholm and Boston. Our founding leadership team possesses extensive expertise from prestigious institutions including Volvo Cars, MIT Media Lab, and proven automotive technology enterprises.
 
 ### Executive Leadership
 
-- **Dr. Anna Lindgren** — Co-founder & Chief Executive Officer. Former lead engineer at Volvo Cars with 12 years of automotive manufacturing experience before transitioning to automotive technology leadership.
-- **Erik Johansson** — Co-founder & Chief Technology Officer. Former engineering lead at a prominent Nordic automotive technology company, with specialized expertise in connected vehicle systems and automotive data standards.
-- **Sarah Chen** — Vice President of Product. Former product director at a leading US automotive software vendor, with extensive experience in dealership workflow optimization and user experience design.
+- **Dr. Anna Lindgren** — Co-founder & Chief Executive Officer. Former senior engineering executive at Volvo Cars with 12 years of comprehensive automotive manufacturing experience prior to her transition to automotive technology leadership.
+- **Erik Johansson** — Co-founder & Chief Technology Officer. Former principal engineering lead at a leading Nordic automotive technology corporation, specializing in connected vehicle architecture and automotive data standardization.
+- **Sarah Chen** — Vice President of Product. Former senior product director at a premier US automotive software enterprise, with distinguished expertise in dealership workflow optimization and advanced user experience design.
 
 ## Core Values
 
-- **Customer-Centered Innovation** — Every solution we develop is designed with customer satisfaction and vehicle quality as the primary consideration
-- **Operational Transparency** — We maintain public visibility of our system performance, security certifications, and product development roadmap
-- **Automotive Connectivity** — We champion vehicle data ownership and facilitate seamless data integration across automotive systems
-- **Intuitive Design** — We deliver solutions that integrate naturally into manufacturing and dealership workflows without requiring extensive training
+- **Customer-Centric Innovation** — All solutions are architected with customer satisfaction and vehicle quality excellence as fundamental design principles
+- **Operational Transparency** — We maintain comprehensive public visibility of system performance metrics, security certifications, and strategic product development initiatives
+- **Automotive Integration** — We advocate for vehicle data sovereignty and enable seamless data interoperability across comprehensive automotive ecosystems
+- **Intuitive Design Excellence** — We deliver solutions that integrate seamlessly into existing manufacturing and dealership workflows while minimizing training requirements
 
 ## Strategic Partnerships & Investment
 
-AutoFlow Motors is supported by premier Nordic and US automotive technology investors. We maintain strategic partnerships with automotive manufacturers and dealerships throughout Scandinavia and the northeastern United States.
+AutoFlow Motors is backed by leading Nordic and US automotive technology investment firms. We maintain strategic alliances with automotive manufacturers and dealerships across Scandinavia and the northeastern United States.
 
 ## Contact Information
 
