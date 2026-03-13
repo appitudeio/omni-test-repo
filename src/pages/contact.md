@@ -1,32 +1,48 @@
-# Contact Us
+---
+hero_title: Välkommen till team Almia!
+hero_subtitle: Vi är här för dig — oavsett om du söker uppdrag eller personal
+hero_cta_primary_text: Ring oss
+hero_cta_primary_href: tel:+46841025050
+---
 
-We'd love to hear from you. Whether you're exploring MedFlow for your practice, have a support question, or want to partner with us — reach out.
+## Kontakta oss
 
-## Get in Touch
+Du har Sveriges viktigaste jobb. Låt oss hjälpa dig att göra det på dina villkor.
 
-- **Email:** hello@medflow.health
-- **Phone:** +46 8 123 45 67
-- **Sales inquiries:** sales@medflow.health
-- **Support:** support@medflow.health
+<div class="contact-form fade-in">
+<form action="#" method="post">
+<div class="form-group">
+<label for="name">För- & efternamn</label>
+<input type="text" id="name" name="name" placeholder="Ditt namn" required>
+</div>
+<div class="form-group">
+<label for="phone">Mobiltelefon</label>
+<input type="tel" id="phone" name="phone" placeholder="07X-XXX XX XX">
+</div>
+<div class="form-group">
+<label for="email">E-postadress</label>
+<input type="email" id="email" name="email" placeholder="din@email.se" required>
+</div>
+<div class="form-group">
+<label for="message">Meddelande</label>
+<textarea id="message" name="message" placeholder="Berätta gärna lite om dig själv och vad du söker..."></textarea>
+</div>
+<button type="submit" class="form-submit">Skicka</button>
+<p class="form-consent">Genom att skicka detta formulär samtycker du till att Almia behandlar dina personuppgifter i enlighet med GDPR.</p>
+</form>
+</div>
 
-## Offices
+## Direktkontakt
 
-### Stockholm (HQ)
-Birger Jarlsgatan 57
-114 29 Stockholm, Sweden
+- **Telefon:** [08-410 250 50](tel:+46841025050)
+- **E-post:** [info@almia.se](mailto:info@almia.se)
 
-### Boston
-One Beacon Street, Suite 1200
-Boston, MA 02108, USA
+## Besöksadress
 
-## Schedule a Demo
+**Almia AB**
+Engelbrektsgatan 35B
+114 32 Stockholm
 
-Interested in seeing MedFlow in action? Our team will walk you through the platform, answer your questions, and help you evaluate whether MedFlow is the right fit for your organization.
+## Öppettider
 
-Demos typically take 30 minutes and can be tailored to your specialty or use case.
-
-Email **sales@medflow.health** with your preferred time and we'll set it up.
-
-## Careers
-
-We're hiring engineers, designers, and clinical specialists across both offices. Check our careers page or email **careers@medflow.health** with your CV.
+Måndag–fredag: 08:00–17:00
