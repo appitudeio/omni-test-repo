@@ -11,7 +11,7 @@ page_class: hero-home
 <section class="section section-alt">
 <div class="section-inner text-center">
 
-## Bemanning inom vård och omsorg
+## 🏥 Bemanning inom vård och omsorg
 
 <p class="lead">Vår verksamhet bygger på en stark idé: Du som jobbar inom vård och omsorg har världens viktigaste jobb och därför borde du få den lön, de villkor samt det stöd du är värd och behöver.</p>
 
@@ -51,7 +51,7 @@ Vi lyssnar och hjälper dig hitta uppdrag som får din vardag att fungera.
 <section class="section section-alt fade-in">
 <div class="section-inner text-center">
 
-## Välkommen som konsult hos oss
+## 🤝 Välkommen som konsult hos oss
 
 <p class="lead">Ta första steget nu!</p>
 
@@ -108,7 +108,7 @@ Terapeut eller undersköterska. Vi hjälper dig till större frihet, trivsam gem
 <section class="section section-blue fade-in">
 <div class="section-inner text-center">
 
-## Från Kiruna till Trelleborg
+## 🗺️ Från Kiruna till Trelleborg
 
 <p class="lead">Som Almiakonsult har du närmare till intressanta och berikande jobb inom vården, var du än bor. Vi förmedlar längre och kortare uppdrag i hela landet.</p>
 
@@ -118,7 +118,7 @@ Terapeut eller undersköterska. Vi hjälper dig till större frihet, trivsam gem
 </section>
 
 <div class="cta-banner fade-in">
-<h2>Nyfiken på livet som konsult?</h2>
+<h2>🤔 Nyfiken på livet som konsult?</h2>
 <p>Första steget är enkelt.</p>
 <div class="cta-options">
 <a href="/contact.html" class="btn btn-primary">Intresseanmälan</a>
