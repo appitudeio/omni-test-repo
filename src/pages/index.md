@@ -1,5 +1,5 @@
 ---
-hero_title: Gör det som du älskar, som konsult!
+hero_title: Делай то, что любишь, как консультант!
 hero_subtitle: Bemanning inom vård och omsorg — Ditt personliga team är alltid nära
 hero_cta_primary_text: Intresseanmälan
 hero_cta_primary_href: /contact.html
