@@ -24,25 +24,25 @@ hero_subtitle: Vi är specialister på bemanning inom vård och omsorg
 
 ## Ledande partner för strategisk vårdbemanning
 
-Almia etablerades 2016 med den strategiska ambitionen att revolutionera villkoren för vårdpersonal. Genom vårt expertområde har vi positionerat oss som en av de mest respekterade bemanningsorganisationerna för vårdprofessionella och vårdorganisationer på nationell nivå.
+Almia grundades 2016 med visionen att transformera arbetsmiljön för vårdpersonal och etablera nya standarder inom bemanningsbranschen. Genom vår specialiserade expertis har vi utvecklat oss till en av Sveriges mest ansedda bemanningsorganisationer för vårdprofessionella och vårdgivare.
 
-Vår affärsfilosofi grundar sig i förståelsen att en robust vårdinfrastruktur förutsätter välmående medarbetare med optimala yrkesförutsättningar. Som strategisk affärspartner erbjuder vi inte enbart bemanningstjänster — vi tillhandahåller holistiska lösningar och expertis för långsiktig organisatorisk excellens.
+Vår verksamhetsfilosofi bygger på förståelsen att hållbar vård kräver välmående medarbetare med optimala arbetsförutsättningar. Som strategisk partner erbjuder vi inte endast bemanningstjänster utan kompletta lösningar och rådgivning för långsiktig organisationsutveckling och verksamhetsexcellens.
 
 ## Vision & uppdrag
 
-Att etablera vår position som den mest framstående bemanningsorganisationen inom vård och omsorg i Norden. Vi eftersträvar att varje konsult erfar professionell progression, erkännande och kontinuerligt stöd genom hela vårt partnerskap.
+Att vara Nordens främsta bemanningsorganisation inom vård och omsorg. Vi strävar efter att varje konsult ska uppleva professionell utveckling, erkännande och kontinuerligt stöd genom hela vårt samarbete.
 
-## Organisationsarkitektur
+## Organisationsstruktur
 
-Vår organisation består av 18 högt specialiserade medarbetare med huvudsäte i Stockholm. Vårt expertteam besitter djupgående kompetens inom vårdsektorn och bemanningsindustrin. Vi levererar individualiserade lösningar genom streamlinerade processer för att säkerställa exceptionella resultat för både konsulter och klientorganisationer.
+Vår organisation består av 18 specialiserade medarbetare med huvudkontor i Stockholm. Vårt expertteam innehar djupgående branschkunskap inom vårdsektor och personalförsörjning. Vi levererar anpassade lösningar genom effektiva processer för att säkerställa enastående resultat för både konsulter och uppdragsgivare.
 
 ## Kvalitetssäkring & certifiering
 
-Almia innehar auktorisation enligt **FR2000**, vilket omfattar ledningssystem för kvalitet (ISO 9001), miljöledning (ISO 14001) och systematiskt arbetsmiljöarbete (ISO 45001). Detta garanterar rigorösa och strukturerade kvalitetsprocesser genom samtliga verksamhetsområden.
+Almia innehar auktorisation enligt **FR2000**, vilket omfattar ledningssystem för kvalitet (ISO 9001), miljöledning (ISO 14001) och systematiskt arbetsmiljöarbete (ISO 45001). Detta säkerställer strukturerade kvalitetsprocesser och kontinuerlig förbättring genom alla verksamhetsområden.
 
-## Organisationsfilosofi
+## Verksamhetsfilosofi
 
-- **Individualiserade affärslösningar** — Vi tillhandahåller skräddarsydda strategier för varje medarbetare med fokus på professionell utveckling som organisatorisk prioritet.
-- **Operationell excellens** — Vi upprätthåller branschledande standarder och levererar enligt fastställda överenskommelser med konsekvent kvalitet.
-- **Strategiskt engagemang** — Vi driver innovation inom vårdsektorn och våra konsulters yrkesmässiga progression genom kontinuerlig kompetensutveckling.
-- **Affärstransparens** — Vi upprätthåller öppen kommunikation och integritet i samtliga affärsrelationer och partnerskap.
+- **Individualiserade lösningar** — Vi tillhandahåller skräddarsydda strategier för varje medarbetare med fokus på professionell utveckling och karriärtillväxt.
+- **Operationell excellens** — Vi upprätthåller branschledande standarder och levererar enligt fastställda åtaganden med konsekvent hög kvalitet.
+- **Strategiskt partnerskap** — Vi driver innovation inom vårdsektorn och främjar våra konsulters professionella utveckling genom kontinuerlig kompetensutveckling.
+- **Affärsintegritet** — Vi upprätthåller transparent kommunikation och högsta etiska standarder i alla affärsrelationer och partnerskap.
