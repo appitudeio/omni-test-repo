@@ -22,27 +22,27 @@ hero_subtitle: Vi är specialister på bemanning inom vård och omsorg
 </div>
 </section>
 
-## Strategisk partner för hållbar vårdbemanning
+## Ledande partner för strategisk vårdbemanning
 
-Almia grundades 2016 med en strategisk vision om att förbättra villkoren för vårdpersonal. Sedan etableringen har vi utvecklats till en ledande bemanningspartner för vårdpersonal och vårdgivare nationellt.
+Almia etablerades 2016 med den strategiska ambitionen att revolutionera villkoren för vårdpersonal. Genom vårt expertområde har vi positionerat oss som en av de mest respekterade bemanningsorganisationerna för vårdprofessionella och vårdorganisationer på nationell nivå.
 
-Vi förstår att en hållbar vårdkedja bygger på välmående medarbetare med optimala arbetsförutsättningar. Som strategisk partner levererar vi inte endast bemanningstjänster — vi erbjuder omfattande stöd och expertis för långsiktig framgång.
+Vår affärsfilosofi grundar sig i förståelsen att en robust vårdinfrastruktur förutsätter välmående medarbetare med optimala yrkesförutsättningar. Som strategisk affärspartner erbjuder vi inte enbart bemanningstjänster — vi tillhandahåller holistiska lösningar och expertis för långsiktig organisatorisk excellens.
 
-## Vision & mission
+## Vision & uppdrag
 
-Att positionera oss som den mest respekterade bemanningsorganisationen inom vård och omsorg i Norden. Vi strävar efter att varje konsult upplever professionell utveckling, erkännande och kontinuerligt stöd under hela samarbetet.
+Att etablera vår position som den mest framstående bemanningsorganisationen inom vård och omsorg i Norden. Vi eftersträvar att varje konsult erfar professionell progression, erkännande och kontinuerligt stöd genom hela vårt partnerskap.
 
-## Organisationsstruktur
+## Organisationsarkitektur
 
-Vi utgörs av 18 specialiserade medarbetare med huvudkontor i Stockholm. Vårt team besitter omfattande expertis inom vårdsektorn och bemanningsbranschen. Vi levererar personaliserade lösningar genom effektiva processer för att säkerställa exceptionella resultat för både konsulter och klientorganisationer.
+Vår organisation består av 18 högt specialiserade medarbetare med huvudsäte i Stockholm. Vårt expertteam besitter djupgående kompetens inom vårdsektorn och bemanningsindustrin. Vi levererar individualiserade lösningar genom streamlinerade processer för att säkerställa exceptionella resultat för både konsulter och klientorganisationer.
 
-## Kvalitetscertifiering
+## Kvalitetssäkring & certifiering
 
-Almia innehar certifiering enligt **FR2000**, vilket omfattar ledningssystem för kvalitet (ISO 9001), miljö (ISO 14001) och arbetsmiljö (ISO 45001). Detta säkerställer systematiska och strukturerade kvalitetsprocesser genom hela verksamheten.
+Almia innehar auktorisation enligt **FR2000**, vilket omfattar ledningssystem för kvalitet (ISO 9001), miljöledning (ISO 14001) och systematiskt arbetsmiljöarbete (ISO 45001). Detta garanterar rigorösa och strukturerade kvalitetsprocesser genom samtliga verksamhetsområden.
 
-## Företagsvärderingar
+## Organisationsfilosofi
 
-- **Individualiserad service** — Vi tillhandahåller skräddarsydda lösningar för varje medarbetare. Personlig utveckling är vår prioritet.
-- **Tillförlitlighet** — Vi upprätthåller höga standarder och levererar enligt överenskommelser. Konsekvent kvalitet.
-- **Professionellt engagemang** — Vi driver excellence inom vårdsektorn och våra konsulters professionella utveckling.
-- **Transparens** — Vi upprätthåller öppen kommunikation och integritet i alla affärsrelationer.
+- **Individualiserade affärslösningar** — Vi tillhandahåller skräddarsydda strategier för varje medarbetare med fokus på professionell utveckling som organisatorisk prioritet.
+- **Operationell excellens** — Vi upprätthåller branschledande standarder och levererar enligt fastställda överenskommelser med konsekvent kvalitet.
+- **Strategiskt engagemang** — Vi driver innovation inom vårdsektorn och våra konsulters yrkesmässiga progression genom kontinuerlig kompetensutveckling.
+- **Affärstransparens** — Vi upprätthåller öppen kommunikation och integritet i samtliga affärsrelationer och partnerskap.
