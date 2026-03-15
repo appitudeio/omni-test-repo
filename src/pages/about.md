@@ -22,27 +22,27 @@ hero_subtitle: Vi är specialister på bemanning inom vård och omsorg
 </div>
 </section>
 
-## Vi bygger en friskare vårdkedja
+## Strategisk partner för hållbar vårdbemanning
 
-Almia grundades 2016 med en enkel men stark vision: vårdpersonal förtjänar bättre villkor. Sedan dess har vi vuxit till att bli en pålitlig partner för både vårdpersonal och vårdgivare i hela Sverige.
+Almia grundades 2016 med en strategisk vision om att förbättra villkoren för vårdpersonal. Sedan etableringen har vi utvecklats till en ledande bemanningspartner för vårdpersonal och vårdgivare nationellt.
 
-Vi vet att en friskare vårdkedja börjar med medarbetare som trivs, mår bra och får rätt förutsättningar. Därför är vi inte bara ett bemanningsföretag — vi är en partner som bryr sig.
+Vi förstår att en hållbar vårdkedja bygger på välmående medarbetare med optimala arbetsförutsättningar. Som strategisk partner levererar vi inte endast bemanningstjänster — vi erbjuder omfattande stöd och expertis för långsiktig framgång.
 
-## Vår vision
+## Vision & mission
 
-Att vara det mest omtyckta bemanningsföretaget inom vård och omsorg i Norden. Vi vill att varje konsult ska känna sig sedd, uppskattad och stöttad genom hela sin tid hos oss.
+Att positionera oss som den mest respekterade bemanningsorganisationen inom vård och omsorg i Norden. Vi strävar efter att varje konsult upplever professionell utveckling, erkännande och kontinuerligt stöd under hela samarbetet.
 
-## Vårt team
+## Organisationsstruktur
 
-Vi är ett team av 18 engagerade medarbetare med kontor i Stockholm. Vårt team har bred erfarenhet från vårdsektorn och bemanningsbranschen. Vi kombinerar personlig service med effektiva processer för att leverera bästa möjliga upplevelse — för både konsulter och kunder.
+Vi utgörs av 18 specialiserade medarbetare med huvudkontor i Stockholm. Vårt team besitter omfattande expertis inom vårdsektorn och bemanningsbranschen. Vi levererar personaliserade lösningar genom effektiva processer för att säkerställa exceptionella resultat för både konsulter och klientorganisationer.
 
-## Certifiering
+## Kvalitetscertifiering
 
-Almia är certifierat enligt **FR2000**, vilket omfattar ledningssystem för kvalitet (ISO 9001), miljö (ISO 14001) och arbetsmiljö (ISO 45001). Det innebär att vi arbetar systematiskt och strukturerat med kvalitet i alla led.
+Almia innehar certifiering enligt **FR2000**, vilket omfattar ledningssystem för kvalitet (ISO 9001), miljö (ISO 14001) och arbetsmiljö (ISO 45001). Detta säkerställer systematiska och strukturerade kvalitetsprocesser genom hela verksamheten.
 
-## Våra värderingar
+## Företagsvärderingar
 
-- **Personligt** — Vi ser varje individ. Du är aldrig ett nummer hos oss.
-- **Pålitligt** — Vi håller vad vi lovar. Alltid.
-- **Engagerat** — Vi brinner för vården och för våra konsulters välmående.
-- **Transparent** — Vi är öppna och ärliga i allt vi gör.
+- **Individualiserad service** — Vi tillhandahåller skräddarsydda lösningar för varje medarbetare. Personlig utveckling är vår prioritet.
+- **Tillförlitlighet** — Vi upprätthåller höga standarder och levererar enligt överenskommelser. Konsekvent kvalitet.
+- **Professionellt engagemang** — Vi driver excellence inom vårdsektorn och våra konsulters professionella utveckling.
+- **Transparens** — Vi upprätthåller öppen kommunikation och integritet i alla affärsrelationer.
